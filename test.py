@@ -1,4 +1,5 @@
-"""Hey man! You need some documentation!"""
+"""This is a useless script"""
+
 def function_sum(a,b):
 	return a+b
 
